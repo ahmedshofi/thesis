@@ -1,1 +1,11 @@
-https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=50&filter=0&sort=3&pageNo=0
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=0
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=1
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=2
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=3
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=4
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=5
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=6
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=7
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=8
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=9
+https://my.daraz.com.bd/pdp/review/getReviewList?itemId=275854989&pageSize=5&filter=0&sort=3&pageNo=10
